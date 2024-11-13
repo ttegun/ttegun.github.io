@@ -1,0 +1,67 @@
+@import url('https://fastly.jsdelivr.net/gh/wanteddev/wanted-sans@v1.0.1/packages/wanted-sans/fonts/webfonts/variable/split/WantedSansVariable.min.css');
+
+body {
+    background-color: #181818;
+}
+
+.title {
+    background-image: linear-gradient(to right bottom, #66ff00, #b7ff87);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 50px;
+    font-family: "Wanted Sans Variable";
+    top: 390px;
+    left: 80px;
+    position: absolute;
+}
+
+.icon {
+    top: 270px;
+    position: absolute;
+}
+
+.writing {
+    font-family: "Wanted Sans Variable";
+    color: #ffffff;
+    font-size: 25px;
+    top: 470px;
+    left: 80px;
+    position: absolute;
+}
+
+.digriss {
+    border-radius: 20%;
+    position: absolute;
+    top: 270px;
+    left: 900px;
+}
+
+.digriss-text {
+    position: absolute;
+    font-family: "Wanted Sans black";
+    -webkit-text-stroke: 0.5px #ffffff;
+    background-image: linear-gradient(to right bottom, #54c9ff, #91dcff);
+    -webkit-background-clip: text;
+    color: transparent;
+    top: 460px;
+    left: 958px;
+    font-size: 25px;
+}
+
+.digriss-lore {
+    position: absolute;
+    font-family: "Wanted Sans black";
+    background-image: linear-gradient(to right bottom, #54c9ff, #91dcff);
+    -webkit-text-stroke: 0.5px #ffffff;
+    -webkit-background-clip: text;
+    color: transparent;
+    top: 500px;
+    left: 895px;
+    font-size: 25px;
+}
+
+.back {
+    position: absolute;
+    top: 120px;
+    left: 820px;
+}
